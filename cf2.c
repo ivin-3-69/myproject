@@ -1,6 +1,7 @@
 #include<stdio.h>
 int main()
 {
+	//nigga
 	long long int score=0,match,win=0,f=0,draw=0,w,d;
 	scanf("%lld %lld %lld %lld",&match,&score,&w,&d);
 	if(w*match<score)
